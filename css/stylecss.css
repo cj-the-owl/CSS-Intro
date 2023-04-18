@@ -1,0 +1,42 @@
+body {
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    color: white;
+    text-shadow: 5px 5px 9px black;
+    text-align:center;
+    font-family: 'Sunny spells basic','Times New Roman', Times, serif;
+
+}
+
+img {
+    width:400px;
+    height:400px;
+    border-radius: 200px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align:center;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.container {
+    text-align:right;
+    margin-top: 5px;
+    margin-bottom: 100px;
+    text-align: center;
+    
+}
+ button {
+    border-radius: 200px;
+ }
